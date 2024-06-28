@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome to my GitHub portfolio! I'm passionate about building robust and scalable web applications. Below you'll find a glimpse of some of my recent projects.<br>🌱 I’m currently learning Backend Development PHP and Laravel<br>
-📫 How to reach me aniketjadav2002@gmail.com<br>⚡ Skills :<br>- Frontend: HTML, CSS, JavaScript , Bootstrap, React-JS <br>- Backend: PHP<br>- Databases: MySQL<br>- Version Control: Git
+📫 How to reach me aniketjadav2002@gmail.com<br>⚡ Skills :<br>- Frontend: HTML, CSS, JavaScript , Bootstrap, Tailwind CSS, React-JS <br>- Backend: PHP<br>- Databases: MySQL<br>- Version Control: Git
 
 
 ## 🌐 Socials:
